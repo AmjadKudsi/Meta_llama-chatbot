@@ -1,0 +1,7 @@
+pyyaml
+llama-index
+llama-index-vector-stores-faiss
+faiss-cpu
+ragas
+arize-phoenix
+python-dotenv

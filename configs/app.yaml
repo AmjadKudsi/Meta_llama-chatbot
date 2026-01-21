@@ -1,0 +1,11 @@
+paths:
+  docs_dir: "/content/drive/MyDrive/rag-chatbot/raw_docs"
+  artifacts_dir: "/content/drive/MyDrive/rag-chatbot/artifacts"
+  index_dir: "/content/drive/MyDrive/rag-chatbot/artifacts/indexes"
+  eval_runs_dir: "/content/drive/MyDrive/rag-chatbot/artifacts/eval_runs"
+  traces_dir: "/content/drive/MyDrive/rag-chatbot/artifacts/traces"
+
+rag:
+  top_k: 6
+  chunk_size: 900
+  chunk_overlap: 150
