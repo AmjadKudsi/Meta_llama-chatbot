@@ -1,6 +1,20 @@
 # macOS system files
 .DS_Store
 
+data/raw_docs/
+
+data/processed/
+
+data/indexes/
+
+data/eval/runs/
+
+.env
+
+pycache/
+
+.ipynb_checkpoints/
+
 # Python cache
 __pycache__/
 *.pyc
@@ -29,3 +43,4 @@ dist/
 
 # VS Code settings
 .vscode/
+
