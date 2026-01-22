@@ -1,6 +1,7 @@
 pyyaml
 llama-index
 llama-index-vector-stores-faiss
+llama-index-embeddings-huggingface
 faiss-cpu
 ragas
 arize-phoenix
