@@ -1,8 +1,14 @@
 pyyaml
+
 llama-index
 llama-index-vector-stores-faiss
 llama-index-embeddings-huggingface
-faiss-cpu
+llama-index-llms-huggingface
+
+transformers
+torch
+sentencepiece
+
 ragas
 arize-phoenix
 python-dotenv
