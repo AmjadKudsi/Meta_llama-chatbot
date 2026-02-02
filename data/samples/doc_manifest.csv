@@ -1,0 +1,11 @@
+file_name,source_id,source_title,irs_publication,tax_year,notes
+tax01.pdf,irs_pub17_2024,Your Federal Income Tax for Individuals (Publication 17),17,2024,For use in preparing 2024 Returns
+tax02.pdf,irs_pub501_2024,"Dependents, Standard Deduction, and Filing Information (Publication 501)",501,2024,For use in preparing 2024 Returns
+tax03.pdf,irs_pub502_2024,Medical and Dental Expenses (Publication 502),502,2024,For use in preparing 2024 Returns
+tax04.pdf,irs_pub503_2025,Child and Dependent Care Expenses (Publication 503),503,2025,For use in preparing 2025 Returns
+tax05.pdf,irs_pub504_2025,Divorced or Separated Individuals (Publication 504),504,2025,For use in preparing 2025 Returns
+tax06.pdf,irs_pub505_2025,Tax Withholding and Estimated Tax (Publication 505),505,2025,For use in 2025
+tax07.pdf,irs_pub523_2024,Selling Your Home (Publication 523),523,2024,For use in preparing 2024 Returns
+tax08.pdf,irs_pub526_2024,Charitable Contributions (Publication 526),526,2024,For use in preparing 2024 Returns
+tax09.pdf,irs_pub596_2025,Earned Income Credit (EIC) (Publication 596),596,2025,For use in preparing 2025 Returns
+tax10.pdf,irs_pub970_2024,Tax Benefits for Education (Publication 970),970,2024,For use in preparing 2024 Returns
