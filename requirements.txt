@@ -1,7 +1,8 @@
 pyyaml
 
 llama-index
-llama-index-vector-stores-faiss faiss-cpu
+llama-index-vector-stores-faiss
+faiss-cpu
 llama-index-embeddings-huggingface
 llama-index-llms-huggingface
 
