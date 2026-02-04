@@ -6,9 +6,9 @@ faiss-cpu
 llama-index-embeddings-huggingface
 llama-index-llms-huggingface
 
-transformers
 torch
-sentencepiece
+transformers==4.41.2
+sentence-transformers==2.7.0
 
 ragas
 arize-phoenix
